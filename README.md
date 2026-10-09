@@ -128,3 +128,4 @@ Never commit `.env` files — only `.env.example` is tracked in git.
 - To swap image storage providers later, only `server/src/config/cloudinary.js` needs
   to change — controllers reference `req.file.path` / `req.file.filename` generically.
 "# portfolio" 
+# portfolio
